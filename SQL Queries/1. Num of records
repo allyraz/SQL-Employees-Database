@@ -1,0 +1,19 @@
+#checking number of records
+select count(*)
+from employees
+union
+select count(*)
+from dept_manager
+union
+select count(*)
+from dept_emp
+union
+select count(*)
+from departments
+union
+select count(*)
+from salaries
+union
+select count(*)
+from titles
+;
