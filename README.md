@@ -14,4 +14,4 @@ This dataset is an employees database, sourced from on [Github](https://github.c
 Data were queried using MySQL. Codes can be found under SQL Queries folder.
 
 ## Findings
-Findings are documented in Tableau and additional details can be found [here](www.datadally.com/projects/employees-database-analysis).
+Findings are documented in [Tableau](https://public.tableau.com/views/HREmployeeAnalysis_16837472869800/EmployeesDatabase?:language=en-US&:display_count=n&:origin=viz_share_link) and additional details can be found [here](https://www.datadally.com/projects/employees-database-analysis).
