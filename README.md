@@ -1,5 +1,5 @@
 # SQL-Employees-Database
-Analysing company ‘employees’ database to provide a summary of the database to an incoming data manager at the company who wants to know the state of the database
+Analyzing company ‘employees’ database to provide a summary of the database to an incoming data manager at the company who wants to know the state of the database
 
 ## Objective
 The purpose of this task is to provide a summary of the database to an incoming data manager at the company who wants to know the state of the database. The information required include understanding the overall structure, volume and quality of the data. I have also decided to include insights on the employees composition within the company.
